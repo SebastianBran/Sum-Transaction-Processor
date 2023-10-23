@@ -31,7 +31,7 @@ python3 main.py
 
 ```bash
 cd rest-api
-npm install
+sudo npm install # with sudo if necessary
 node index.js
 ```
 
